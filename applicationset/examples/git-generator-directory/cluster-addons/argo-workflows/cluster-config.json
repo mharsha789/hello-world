@@ -1,4 +1,4 @@
 {
   "legacy_cluster_only": "false",
-  "cluster": ["newCluster"]
+  "cluster": ["oldCluster", "newCluster"]
 }
