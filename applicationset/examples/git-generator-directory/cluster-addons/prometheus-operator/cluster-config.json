@@ -1,3 +1,4 @@
 {
-  "legacy_cluster_only": "true"
+  "legacy_cluster_only": "true",
+  "target_cluster": ["oldCluster"]
 }
