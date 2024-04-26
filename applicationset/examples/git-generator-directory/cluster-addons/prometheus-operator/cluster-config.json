@@ -1,4 +1,7 @@
 {
   "legacy_cluster_only": "true",
-  "target_cluster": "oldCluster"
+  "target_cluster": "oldCluster",
+  "chart": {
+    "repository": "prom-repo"
+  }
 }
