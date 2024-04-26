@@ -1,4 +1,7 @@
 {
   "legacy_cluster_only": "false",
-  "target_cluster": "newCluster"
+  "target_cluster": "newCluster",
+  "chart": {
+    "repository": "influxdb-repo"
+  }
 }
